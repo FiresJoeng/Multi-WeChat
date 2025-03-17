@@ -1,6 +1,6 @@
 # Multi-WeChat
 微信多开
-- 最干净简洁的PC微信多开小程序!
+- 最干净简洁的PC微信多开程序!
 - 基于Python3和Qt5, 完全开源!
 - 已用PyInstaller打包成.exe, 欢迎下载使用!
 ---
