@@ -1,4 +1,4 @@
-# ![](Multi-WeChat.ico)Multi-WeChat
+# <img src="Multi-WeChat.ico" alt="Multi-WeChat" width="32" height="32"> Multi-WeChat
 微信多开  
 
 - 最干净简洁的PC微信多开程序!
